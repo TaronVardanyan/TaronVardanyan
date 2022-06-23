@@ -1,7 +1,26 @@
 Versatile Front-end Developer with 4+ years of experience designing, developing, and managing complex e-commerce sites and internal frameworks. Specializes in ReactJS and responsive design.
 Has an experience with online learning systems, also with project management tools. Right now working on AI based social network project.
 
-[![TaronVardanyan's github stats](https://github-readme-stats.vercel.app/api?username=TaronVardanyan&show_icons=true&theme=merko)](https://github.com/TaronVardanyan/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaronVardanyan&layout=compact&theme=merko)](https://github.com/TaronVardanyan/github-readme-stats)
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=TaronVardanyan&theme=cobalt&show_icons=true&count_private=true" />
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TaronVardanyan&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+<br>
+<p align="centre">
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TaronVardanyan&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+</p>
+ <br> 
 
 <br>	
 <a target="_blank" href="https://am.linkedin.com/in/taron-vardanyan-3a1b85198"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>

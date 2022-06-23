@@ -1,5 +1,9 @@
 <div align=center>
   <h3><b>Hi there :wave:, I'm Taron</b></h3>
+  <p align="center" > 
+Versatile Front-end Developer with 4+ years of experience designing, developing, and managing complex e-commerce sites and internal frameworks. Specializes in ReactJS and responsive design.
+Has an experience with online learning systems, also with project management tools. Right now working on AI based social network project.
+  </p>
 </div>
 
 <br>	
@@ -20,11 +24,6 @@
 </p>
 
 <hr/>
-
-<p align="center" > 
-Versatile Front-end Developer with 4+ years of experience designing, developing, and managing complex e-commerce sites and internal frameworks. Specializes in ReactJS and responsive design.
-Has an experience with online learning systems, also with project management tools. Right now working on AI based social network project.
-  </p>
 
 <table border="0" align="center">
 <tr border="0">

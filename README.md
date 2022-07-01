@@ -28,7 +28,7 @@ Has an experience with online learning systems, also with project management too
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=TaronVardanyan&theme=cobalt&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=TaronVardanyan&theme=cobalt&include_all_commits=true&show_icons=true&count_private=true" />
 </td>
 
 <td width="50%" align="center">

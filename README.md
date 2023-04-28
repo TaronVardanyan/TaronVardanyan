@@ -1,13 +1,14 @@
 
 ><b>Hi there :wave:, I'm Taron</b></h3>
-  <p align="center" >
+  <p align="left" >
 I am a skilled React developer with 4+ years of experience in designing and building user interfaces for web applications. My passion lies in creating high-quality, responsive, and scalable web applications that are not only visually appealing but also user-friendly. I am well-versed in the latest web development technologies and frameworks, including React, Redux, and Node.js, and I enjoy keeping up with the latest trends and techniques in the industry.
 
 I am a problem-solver by nature, and I take pride in my ability to work independently or as part of a team to deliver innovative solutions that meet client requirements. I have a keen eye for detail, and I believe that the key to success lies in understanding the client's needs and goals, and delivering solutions that exceed their expectations.
 
 When I'm not coding, you can find me hiking, practicing yoga, or reading up on the latest developments in technology. I believe that a healthy work-life balance is crucial to personal and professional success, and I strive to maintain that balance in everything I do.
 
-I am always open to new challenges and opportunities, and I am excited to work with like-minded individuals and organizations to create cutting-edge web applications that push the boundaries of what is possible.  </p>
+I am always open to new challenges and opportunities, and I am excited to work with like-minded individuals and organizations to create cutting-edge web applications that push the boundaries of what is possible.
+</p>
 </div>
 
 <br>	

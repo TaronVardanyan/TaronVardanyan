@@ -5,8 +5,6 @@ I am a skilled React developer with 4+ years of experience in designing and buil
 
 I am a problem-solver by nature, and I take pride in my ability to work independently or as part of a team to deliver innovative solutions that meet client requirements. I have a keen eye for detail, and I believe that the key to success lies in understanding the client's needs and goals, and delivering solutions that exceed their expectations.
 
-When I'm not coding, you can find me hiking, practicing yoga, or reading up on the latest developments in technology. I believe that a healthy work-life balance is crucial to personal and professional success, and I strive to maintain that balance in everything I do.
-
 I am always open to new challenges and opportunities, and I am excited to work with like-minded individuals and organizations to create cutting-edge web applications that push the boundaries of what is possible.
 </p>
 </div>

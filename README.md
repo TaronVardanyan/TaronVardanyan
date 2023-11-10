@@ -16,28 +16,10 @@ I am always open to new challenges and opportunities, and I am excited to work w
 <a target="_blank" href="https://twitter.com/tarokavardanyan?t=BXuAql2BEd-y4fl9NhgQ5w&s=09"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 </div>
 
-<br>
-
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/TaronVardanyan/count.svg" />  
-</p>
-
 <hr/>
-
-<table border="0" align="center">
-<tr border="0">
-<td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=TaronVardanyan&theme=cobalt&include_all_commits=true&show_icons=true&count_private=true" />
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TaronVardanyan&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TaronVardanyan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TaronVardanyan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
